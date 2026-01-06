@@ -41,3 +41,5 @@ df.to_csv("data/raw/dataset_clean.csv", index=False)
 
 print(df.head())
 print("SUCCESS: dataset_clean.csv created!")
+print("Hai")
+print("test")
